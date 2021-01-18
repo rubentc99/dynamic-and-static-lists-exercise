@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+	<lotes>
+		<lote>
+			<cantidad>2</cantidad>
+			<tipo>FFP2</tipo>
+			<modelo>2</modelo>
+			<homologada>true</homologada>
+			<material>tela</material>
+			<conFiltro>true</conFiltro>
+			<caducidad>20/01/2021</caducidad>
+			<fabricante>manolo</fabricante>
+		</lote>
+	</lotes>
+</inventario>
